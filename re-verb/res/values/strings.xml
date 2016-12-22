@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">re-verb</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ingresar_palabra">IngresarPalabra</string>
+    <string name="title_activity_consultar_palara">ConsultarPalara</string>
+    <string name="name_button_insert">Insert a word</string>
+    <string name="name_button_play">Jugar</string>
+    <string name="label_verb_infinitive">Infinitive</string>
+    <string name="lable_verb_simple">Past Simple</string>
+    <string name="label_verb_participle">Past participle</string>
+    <string name="name_button_save">Save</string>
+    <string name="volver">Volver</string>
+    <string name="lableSig">Siguiente</string>
+    <string name="validar">Validar</string>
+
+</resources>
